@@ -9,7 +9,7 @@ G: Guanina
 T: Timina
 Então, uma fita de DNA pode parecer algo como ACGAATTCCG.
 Uma proteína tem as seguintes qualidades:
-1. Começa com um "códon de início": ATG.
+1. Contém um "códon": ATG.
 2. Termina com um "códon de parada": TGA.
 3. Entre eles, cada códon adicional é uma sequência de trêsnucleotídeos.
 Por exemplo:
