@@ -3,14 +3,10 @@ Este programa em Java recebe uma fita de DNA e retorna se esta é uma proteína 
 
 O genoma de um organismo armazena todas as informações genéticas necessárias para construir e manter esse organismo. É o conjunto completo de DNA do organismo.
 O DNA é composto por uma série de nucleotídeos abreviados como:
-A: Adenina
-
-C: Citosina
-
-G: Guanina
-
-T: Timina
-
+A: Adenina\n
+C: Citosinan\n
+G: Guanina\n
+T: Timina\n
 Então, uma fita de DNA pode parecer algo como ACGAATTCCG.
 Uma proteína tem as seguintes qualidades:
 1. Contém um "códon": ATG.
